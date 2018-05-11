@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_844c0b15c23ba1998086b0e0d87a872d6d2ace25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-0.11.0_3b88aa80dab55de590d740a9e0bbbf8b6ca6a295.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\ProgramFiles\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_fcb42ea72773365be6fc038675023cb0415c622a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\MyCalculator\react-native-vector-icons\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="93c681c699d12585fc5a6c11b2c4394d4669e9be">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\MyCalculator-react-native-vector-icons-unspecified_667b0b1a5aab5288fd5ed5d3f97d536ccdd50a20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_99c35a44059425d642e1fa01caba86f9dc9b7e2e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-0.11.0_4a6be1fb0a617c521d10df2795c344268674f344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\okio-1.9.0_22e260e590881a342c9e37f8444bd37706f45a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-0.11.0_24714b4a76304248f1a485363a56ce92101adfa5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_cbd2ecc8de8389ff2c3c8a148e2f62187d6a1029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_71f2a5f0bea83967dd38e97e728d9968fc406e07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.39.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="035e9c4ef05bd4e0f34f48fbfb073f98fcf58af0">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.39.2_cafb7a986ac8f538c126bada7dedda5aa2738ea5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_6957eca8f0b8010e14fcebc3ea41fa2fd6c43c26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_63860506a03f07de4470cde9edfa0f1a8ce08edc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.3\1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14\jackson-core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.3_f469ca1540580825307e144c77d8b0a440a45978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_a15628406cee327bdcd5683e2b6ed643eb89e9ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.39.2\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5268ed090600db4ceb72b055927f4f9cbd79465c">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_cafd65d19f91603331b51184205ad86270f3950f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_36438495030ea7604a211547f06a888733b8d01f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-0.11.0_e9c9ecea65d5b8aa2e3de31607630645fba8ec15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-ws\3.4.1\8ace66ef7002d98f633377c9e67daeeb196d8c3b\okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\okhttp-ws-3.4.1_89c1fa2a44e4c7bfaa1ffd4ac4a2bd245b216e42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_71bb7288a6a28bfb9a157e0a967abd5ab5fde686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-0.11.0_7755d4cd6fda01fbdc1c5cd5b52df6d3c3a631e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.11.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-0.11.0_e0c05cbecfe58acf9dfcf12a8a5f0c8bf3d115f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.4.1\63994437f62bc861bc20c605d12962f7246116d1\okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.4.1_05097fa6e32520c03482e55cc34e992d35da7972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\good\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="H:\Programs\ReactNativeProjects\Calculator-React-Native-Simple-master\android\app\build\intermediates\pre-dexed\debug\library-2.4.0_d5dfd191ff25942be65d2e8ce4d9d82bf3ea180c.jar" />
+    </item>
+
+</items>
